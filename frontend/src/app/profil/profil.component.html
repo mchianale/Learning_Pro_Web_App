@@ -1,0 +1,20 @@
+<div class="main-container">
+<div class="profile-container">
+  <div class="header">
+    <div class="avatar"></div>
+    <button class="username">{{username}}</button>
+    <button class="timetable">Timetable ></button>
+  </div>
+  <div class="stats">
+    <div class="stat">Total packages learned : {{total_learned}}</div>
+    <div class="stat">Total packages created : {{total_created}}</div>
+    <div class="difficulty-bar" [ngStyle]="{'background-color': getDifficultyColor(meanDifficulty)}">
+      mean level {{ meanDifficulty }}
+    </div>
+  </div>
+  <div class="categories" *ngFor="let category of categories">
+    <button class="category">{{category}}</button>
+  </div>
+</div>
+</div>
+

@@ -1,0 +1,35 @@
+/* Existing styles... */
+
+/* Custom link styles */
+.navbar-dark .navbar-nav .custom-link {
+  color: white; /* Ensure the custom links are white */
+  margin-right: 1rem; /* Add space to the right of the link */
+}
+
+/* Last child should not have margin-right to align with the edge */
+.navbar-dark .navbar-nav .custom-link:last-child {
+  margin-right: 0;
+}
+
+/* Ensure the dropdown items are spaced out */
+.navbar-dark .navbar-nav .nav-item {
+  margin-right: 0.5rem; /* Add space between nav items */
+}
+
+/* Remove default dropdown-item padding for custom links */
+.navbar-dark .navbar-nav .custom-link.dropdown-item {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* Update the responsive styles if necessary */
+@media (max-width: 991px) {
+  .navbar-dark .navbar-nav .nav-link,
+  .navbar-dark .navbar-nav .custom-link {
+    color: white;
+    margin-right: 0; /* Reset the margin for mobile view */
+  }
+  .navbar-dark .navbar-nav .nav-item {
+    margin-bottom: 0.5rem;
+  }
+}

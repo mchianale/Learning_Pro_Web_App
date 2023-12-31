@@ -1,0 +1,10 @@
+<!-- home.component.html -->
+<div *ngIf="isUserAuthenticated(); else publicContent">
+  <!-- Authenticated User Content -->
+  <app-private-nav-bar></app-private-nav-bar>
+</div>
+
+<ng-template #publicContent>
+  <app-public-nav-bar></app-public-nav-bar>
+</ng-template>
+<router-outlet></router-outlet>

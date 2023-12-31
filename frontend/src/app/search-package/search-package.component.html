@@ -1,0 +1,93 @@
+<div id="main-container">
+  <div id="side-menu" [class.active]="showAddFiltersForm">
+    <h2>Custom Filters</h2>
+    <form (ngSubmit)="applyFilters()">
+      <!-- Title Input -->
+      <div class="form-group">
+        <label for="title">Title</label>
+        <input type="text" id="title" [(ngModel)]="title" name="title" class="form-control" placeholder="Enter title">
+      </div>
+      <!-- Category Dropdown -->
+      <div class="form-group">
+        <label for="category">Category</label>
+        <select id="category" [(ngModel)]="category" name="category" class="form-control">
+          <option value="" disabled>Select a category</option>
+          <option *ngFor="let cat of categories" [value]="cat">{{ cat }}</option>
+        </select>
+      </div>
+      <!-- Target Audience Input -->
+      <div class="form-group">
+        <label for="targetAudience">Target Audience</label>
+        <input type="text" id="targetAudience" [(ngModel)]="targetAudience" name="targetAudience" class="form-control" placeholder="Enter target audience">
+      </div>
+      <!-- Difficulty Level Slider -->
+      <div class="form-group">
+        <label for="difficultyLevel">Difficulty Level ({{ difficultyLevel }})</label>
+        <input type="range" id="difficultyLevel" [(ngModel)]="difficultyLevel" name="difficultyLevel" class="form-control" min="1" max="20">
+      </div>
+      <!-- Like Checkbox -->
+      <div class="checkbox">
+        <label>
+          <input type="checkbox" [(ngModel)]="isLike" name="isLike"> Like
+        </label>
+      </div>
+      <!-- Created Checkbox -->
+      <div class="checkbox">
+        <label>
+          <input type="checkbox" [(ngModel)]="created" name="created"> Your creations
+        </label>
+      </div>
+      <!-- Form Buttons -->
+      <button type="submit" class="btn btn-primary">Apply Filters</button>
+      <button type="button" class="btn btn-secondary" (click)="resetFilters()">Reset Filters</button>
+      <button type="button" class="btn btn-default" (click)="toggleSidePanel()">Cancel</button>
+      <!-- Error Message Display -->
+      <p>{{ errorMessage }}</p>
+    </form>
+
+    <div id="side-menu-toggle" (click)="toggleSidePanel()">
+      <span>&gt;</span>
+    </div>
+  </div>
+
+  <div class="pagination">
+  <div *ngIf="learning_packages && learning_packages.length !== 0" class="pagination">
+    <button class="pagination-btn" (click)="prevPage()" [disabled]="currentPage === 0">previous</button>
+    <button class="pagination-btn" *ngIf="hasMorePages()" (click)="nextPage()">next</button>
+  </div>
+  </div>
+
+  <div class="package-container">
+    <div *ngIf="created" class="add-item">
+      <div class="package-title"></div>
+      <div class="circle" (click)="GoToCreatePack()">
+        <div class="plus horizontal"></div>
+        <div class="plus vertical"></div>
+      </div>
+    </div>
+    <div *ngFor="let pack of learning_packages" class="package-item"  (click)="openPackage(pack.id_package)">
+      <div class="package-title">{{ pack.title }}</div>
+      <div class="package-creator">by {{pack.username }}</div>
+      <div class="package-description">{{ pack.description }}</div>
+      <div class="package-category-container">
+        <span class="package-category">{{ pack.category }}</span>
+      </div>
+      <div class="package-difficulty">
+        <div class="difficulty-bar" [ngStyle]="{'background-color': getDifficultyColor(pack.difficultyLevel)}">
+          {{ pack.difficultyLevel }}
+        </div>
+      </div>
+    </div>
+    <div *ngFor="let empty of remain_items" class="empty-item">
+  </div>
+
+
+
+  <!-- Show if there are no exercise for applied filters -->
+  <div *ngIf="!learning_packages || learning_packages.length === 0" class="no-results">
+    <p>No exercises match the filters</p>
+  </div>
+
+</div>
+
+

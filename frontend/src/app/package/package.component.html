@@ -1,0 +1,46 @@
+
+<div *ngIf="isUser === false" class="package-detail-container">
+  <div class="header">
+    <div class="avatar"></div>
+    <span class="user-name" (click)="goToUserProfil(username)">by {{username}}</span>
+    <button class="follow-button">Follow</button>
+    <button class="go-back-button" (click)="goBack()">go back</button>
+  </div>
+  <h1 class="title">{{title}}</h1>
+  <div class="target-audience">for {{targetAudience}}</div>
+  <div class="description">{{description}}</div>
+
+  <div class="footer">
+      <span class="package-category">{{ category }}</span>
+      <div class="difficulty-bar" [ngStyle]="{'background-color': getDifficultyColor(difficultyLevel)}">
+        level {{ difficultyLevel }}
+      </div>
+    <span class="facts-to-learn">facts to learn {{n_facts}}</span>
+    <button class="start-button" (click)="StartLearn()">start to learn</button>
+    <div class="like-button">❤</div>
+  </div>
+</div>
+
+<div *ngIf="isUser === true" class="package-detail-container">
+  <div class="header">
+    <img src="user-icon.png" alt="User" class="user-icon"/>
+    <span class="user-name">by You</span>
+    <button class="follow-button" (click)="goToAddFact()">Add Facts</button>
+    <button class="follow-button" (click)="goToUpdate()">Update</button>
+    <button class="go-back-button" (click)="goBack()">go back</button>
+  </div>
+  <h1 class="title">{{title}}</h1>
+  <div class="target-audience">for {{targetAudience}}</div>
+  <div class="description">{{description}}</div>
+
+  <div class="footer">
+    <span class="package-category">{{ category }}</span>
+    <div class="difficulty-bar" [ngStyle]="{'background-color': getDifficultyColor(difficultyLevel)}">
+      level {{ difficultyLevel }}
+    </div>
+    <span class="facts-to-learn">facts to learn {{n_facts}}</span>
+    <button class="start-button" (click)="StartLearn()">start to learn</button>
+    <div class="like-button">❤</div>
+  </div>
+</div>
+

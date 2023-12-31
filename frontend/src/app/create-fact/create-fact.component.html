@@ -1,0 +1,28 @@
+
+
+
+<div class="main-container">
+  <h1>Create a New Package</h1>
+  <form (ngSubmit)="onSubmit()">
+    <!-- Title Input -->
+    <div class="form-group">
+      <label for="name">Name</label>
+      <input type="text" id="name" [(ngModel)]="name" name="name" class="form-control" placeholder="Enter name">
+    </div>
+    <!-- Description-->
+    <div class="form-group">
+      <label for="description">Description</label>
+      <input type="text" id="description" [(ngModel)]="description" name="description" class="form-control" placeholder="Enter description">
+    </div>
+    <!-- Content -->
+    <div class="form-group">
+      <label for="content">Content</label>
+      <input type="text" id="content" [(ngModel)]="content" name="content" class="form-control" placeholder="Enter a content">
+    </div>
+
+    <!-- Form Buttons -->
+    <button type="submit" class="btn-primary">Create a new Fact</button>
+    <!-- Error Message Display -->
+    <p>{{ errorMessage }}</p>
+  </form>
+</div>

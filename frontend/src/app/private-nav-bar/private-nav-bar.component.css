@@ -1,0 +1,31 @@
+/* Custom navbar styles */
+.navbar-dark .navbar-nav .custom-link {
+  color: white;
+  margin-right: 1rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.navbar-dark .navbar-nav .nav-item:last-child .custom-link {
+  margin-right: 0;
+}
+
+.navbar-dark .navbar-nav .nav-item button.custom-link {
+  line-height: inherit;
+  display: inline-block;
+}
+
+
+@media (max-width: 991px) {
+  .navbar-dark .navbar-nav .nav-link,
+  .navbar-dark .navbar-nav .custom-link {
+    color: white;
+    margin-right: 0;
+    padding: 0.5rem 1rem;
+  }
+  .navbar-dark .navbar-nav .nav-item {
+    margin-bottom: 0.5rem;
+  }
+}

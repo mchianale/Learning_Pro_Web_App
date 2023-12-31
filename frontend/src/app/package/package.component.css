@@ -1,0 +1,120 @@
+
+
+.package-detail-container {
+  background-color: rgb(33, 37, 41);
+  color: white;
+  padding: 20px;
+  max-width: 2000px;
+  height: 2000px;
+  margin: auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.user-icon {
+  background-color: #aaa;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-right: 10px;
+  object-fit: cover;
+  border: 3px solid white;
+}
+
+
+
+.user-name {
+  font-weight: bold;
+  flex-grow: 1;
+}
+
+.follow-button, .go-back-button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.go-back-button {
+  background-color: #bbb;
+}
+
+.title {
+  font-size: 2em;
+  margin: 20px 0;
+}
+
+.target-audience {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.description {
+  background-color: #555;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.difficulty-level {
+  font-size: 1.2em;
+  background-color: #444;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+
+.start-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.like-button {
+  color: #f44336;
+  border-color: #f44336;
+  cursor: pointer;
+  font-size: 1.5em;
+}
+
+
+
+.difficulty-bar {
+  width: 50%; /* Full width of the container */
+  color: rgb(33, 37, 41); /* White text color */
+  text-align: center; /* Center text */
+  padding: 0.25rem 0; /* Padding for the bar */
+  border-radius: 25px; /* Rounded corners for the bar */
+}
+
+
+
+.package-category {
+  background-color: #90EE90;
+  border-radius: 20px;
+  display: inline-block;
+  padding: 0.25rem 1rem;
+}
+
+.avatar {
+  background: url('/assets/user-icon.png') no-repeat center center;
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+

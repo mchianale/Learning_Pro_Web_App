@@ -1,0 +1,902 @@
+[
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cloud Computing",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 6,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Project Management",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Web Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 4,
+        "username": "mchianale",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Project Management",
+        "targetAudience": "Experts",
+        "difficultyLevel": 8,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 18,
+        "username": "mister design",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cybersecurity",
+        "targetAudience": "Experts",
+        "difficultyLevel": 7,
+        "username": "mister design",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Digital Marketing",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 18,
+        "username": "user0",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Data Science",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Machine Learning",
+        "targetAudience": "Experts",
+        "difficultyLevel": 1,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Web Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Project Management",
+        "targetAudience": "Experts",
+        "difficultyLevel": 5,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Cloud Computing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Project Management",
+        "targetAudience": "Experts",
+        "difficultyLevel": 15,
+        "username": "mchianale",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Web Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cloud Computing",
+        "targetAudience": "Experts",
+        "difficultyLevel": 9,
+        "username": "amine",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Project Management",
+        "targetAudience": "Experts",
+        "difficultyLevel": 11,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Web Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Web Development",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 12,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Design",
+        "targetAudience": "Experts",
+        "difficultyLevel": 11,
+        "username": "mchianale",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Cloud Computing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 14,
+        "username": "mchianale",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Game Development",
+        "targetAudience": "Experts",
+        "difficultyLevel": 18,
+        "username": "mister design",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Cloud Computing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cloud Computing",
+        "targetAudience": "Experts",
+        "difficultyLevel": 11,
+        "username": "mister design",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Web Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cybersecurity",
+        "targetAudience": "Experts",
+        "difficultyLevel": 7,
+        "username": "mchianale",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Design",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 2,
+        "username": "user0",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Digital Marketing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Experts",
+        "difficultyLevel": 4,
+        "username": "mr_learning",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Game Development",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 9,
+        "username": "mister design",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Web Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 17,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Mobile App Development",
+        "targetAudience": "Experts",
+        "difficultyLevel": 11,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Project Management",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 10,
+        "username": "amine",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Design",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Project Management",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 9,
+        "username": "user0",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Mobile App Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 10,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Cloud Computing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 6,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Digital Marketing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Machine Learning",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 14,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Data Science",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cloud Computing",
+        "targetAudience": "Experts",
+        "difficultyLevel": 20,
+        "username": "mchianale",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Project Management",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 3,
+        "username": "user0",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Design",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Machine Learning",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 5,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Experts",
+        "difficultyLevel": 19,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cybersecurity",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 20,
+        "username": "mr_learning",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Mobile App Development",
+        "targetAudience": "Experts",
+        "difficultyLevel": 4,
+        "username": "amine",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Machine Learning",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 15,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Design",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Project Management",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 12,
+        "username": "user0",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Digital Marketing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Project Management",
+        "targetAudience": "Experts",
+        "difficultyLevel": 19,
+        "username": "mister design",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Mobile App Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Machine Learning",
+        "targetAudience": "Experts",
+        "difficultyLevel": 7,
+        "username": "amine",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Digital Marketing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cloud Computing",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 20,
+        "username": "mchianale",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Cloud Computing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Design",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 7,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Data Science",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Project Management",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 4,
+        "username": "mr_learning",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Project Management",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Web Development",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 15,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Digital Marketing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Web Development",
+        "targetAudience": "Experts",
+        "difficultyLevel": 4,
+        "username": "user0",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Mobile App Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Mobile App Development",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 8,
+        "username": "mr_learning",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Project Management",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Design",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 3,
+        "username": "mr_learning",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Machine Learning",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 12,
+        "username": "mr_learning",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cloud Computing",
+        "targetAudience": "Experts",
+        "difficultyLevel": 11,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Mobile App Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 18,
+        "username": "user0",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Design",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Mobile App Development",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 17,
+        "username": "mchianale",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Web Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 19,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Project Management",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Game Development",
+        "targetAudience": "Experts",
+        "difficultyLevel": 11,
+        "username": "mchianale",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cloud Computing",
+        "targetAudience": "Experts",
+        "difficultyLevel": 4,
+        "username": "user0",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Project Management",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Machine Learning",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 4,
+        "username": "mr_learning",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Design",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Machine Learning",
+        "targetAudience": "Experts",
+        "difficultyLevel": 3,
+        "username": "amine",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Data Science",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Game Development",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 15,
+        "username": "mister design",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Project Management",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Digital Marketing",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 4,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Experts",
+        "difficultyLevel": 10,
+        "username": "mchianale",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Project Management",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Game Development",
+        "targetAudience": "Experts",
+        "difficultyLevel": 7,
+        "username": "mr_learning",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 15,
+        "username": "user0",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Web Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 16,
+        "username": "mister design",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Cloud Computing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Design",
+        "targetAudience": "Experts",
+        "difficultyLevel": 4,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Web Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 7,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Design",
+        "targetAudience": "Experts",
+        "difficultyLevel": 4,
+        "username": "amine",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Mobile App Development",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 9,
+        "username": "user0",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Mobile App Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 1,
+        "username": "amine",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Project Management",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 6,
+        "username": "mister design",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Mobile App Development",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 7,
+        "username": "user0",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cybersecurity",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 15,
+        "username": "mister design",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Web Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 9,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Cybersecurity",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Machine Learning",
+        "targetAudience": "Experts",
+        "difficultyLevel": 16,
+        "username": "mchianale",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Game Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 7,
+        "username": "mister design",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Design",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Digital Marketing",
+        "targetAudience": "Experts",
+        "difficultyLevel": 3,
+        "username": "amine",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Game Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 13,
+        "username": "mister design",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cloud Computing",
+        "targetAudience": "Experts",
+        "difficultyLevel": 10,
+        "username": "amine",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Cloud Computing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 18,
+        "username": "mr_learning",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Digital Marketing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Web Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 4,
+        "username": "mister design",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Web Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Mobile App Development",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 20,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Web Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 10,
+        "username": "mr_learning",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Digital Marketing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 4,
+        "username": "mchianale",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Digital Marketing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 8,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Web Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 3,
+        "username": "amine",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Project Management",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Design",
+        "targetAudience": "Experts",
+        "difficultyLevel": 17,
+        "username": "user0",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Web Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Web Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 2,
+        "username": "amine",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Mobile App Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Game Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 4,
+        "username": "amine",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Mobile App Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 13,
+        "username": "user0",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Game Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Web Development",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 11,
+        "username": "user0",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Data Science",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cybersecurity",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 13,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Web Development",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Web Development",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 9,
+        "username": "amine",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Digital Marketing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cybersecurity",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 19,
+        "username": "amine",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Game Development",
+        "targetAudience": "Experts",
+        "difficultyLevel": 2,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Project Management",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Machine Learning",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 4,
+        "username": "mister design",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Digital Marketing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cybersecurity",
+        "targetAudience": "Experts",
+        "difficultyLevel": 19,
+        "username": "user0",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Web Development",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 14,
+        "username": "mchianale",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Design",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cybersecurity",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 15,
+        "username": "mchianale",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Digital Marketing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cloud Computing",
+        "targetAudience": "Experts",
+        "difficultyLevel": 15,
+        "username": "user0",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Data Science",
+        "targetAudience": "Experts",
+        "difficultyLevel": 9,
+        "username": "mister design",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Machine Learning",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cloud Computing",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 19,
+        "username": "mister design",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Design",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cybersecurity",
+        "targetAudience": "Intermediate Developers",
+        "difficultyLevel": 15,
+        "username": "amine",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Digital Marketing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cloud Computing",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 3,
+        "username": "amine",
+        "isPublic": true
+    },
+    {
+        "title": "Course on Design",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Digital Marketing",
+        "targetAudience": "Experts",
+        "difficultyLevel": 12,
+        "username": "mr_learning",
+        "isPublic": false
+    },
+    {
+        "title": "Course on Cloud Computing",
+        "description": "A comprehensive course designed for learners.",
+        "category": "Cloud Computing",
+        "targetAudience": "Beginners",
+        "difficultyLevel": 6,
+        "username": "user0",
+        "isPublic": true
+    }
+]
