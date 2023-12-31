@@ -41,7 +41,7 @@ export class CreatePackageComponent {
     else{
       this.token = token_;
     }
-    this.createPackageService.CreatePackage(this.id_package, this.title, this.description, this.category, this.targetAudience, this.difficultyLevel, this.isPublic)
+    this.createPackageService.CreatePackage(this.token, this.title, this.description, this.category, this.targetAudience, this.difficultyLevel, this.isPublic)
       .subscribe(
         (response: any) => {
           // Assuming the backend returns a token upon successful login
